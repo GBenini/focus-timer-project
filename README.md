@@ -36,7 +36,7 @@ O FocusTumer é um Timer desenvolvido em Javascript com possibilidade de alterna
 <br>
 Esse projeto é desenvolvido na trilha Explorer da Rocketseat, a formação completa para sair do zero e conquistar sua primeira vaga em programação.
 
-Você pode visualizar o projeto através [DESSE LINK](https://gbenini.github.io/imc-project/) 👀
+Você pode visualizar o projeto através [DESSE LINK](https://gbenini.github.io/focus-timer-project/) 👀
 
 ## 🔖 Layout
 
